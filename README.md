@@ -6,8 +6,6 @@ Mais de 20 anos de experiência em desenvolvimento de sistemas e liderança de e
 
 <br />
 
-
-
 ##Tecnologias que eu utilizo:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,4 +33,4 @@ Mais de 20 anos de experiência em desenvolvimento de sistemas e liderança de e
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljrnavarro&show_icons=true&theme=dracula&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljrnavarro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljrnavarro&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
