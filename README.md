@@ -6,7 +6,7 @@ Mais de 20 anos de experiência em desenvolvimento de sistemas e liderança de e
 
 <br />
 
-##Tecnologias que eu utilizo:
+## Tecnologias que eu utilizo:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
