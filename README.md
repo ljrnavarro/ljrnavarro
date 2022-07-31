@@ -1,12 +1,10 @@
-### Olá! Eu sou Junior Navarro 🧑🏽‍💻
-Mais de 20 anos de experiência em desenvolvimento de sistemas e liderança de equipe de desenvolvimento.
-
+#### Olá! Eu sou Junior Navarro 🧑🏽‍💻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniornavarro)
 
 
 <br />
 
-## Tecnologias que eu utilizo:
+### Algumas Tecnologias que eu utilizo:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
