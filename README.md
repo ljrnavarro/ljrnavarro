@@ -23,7 +23,7 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![google_gemini](https://img.shields.io/badge/Google Gemini-005C84?style=for-the-badge&logo=googlegemini&logoColor=white)
+![google_gemini](https://img.shields.io/badge/Gemini-005C84?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
