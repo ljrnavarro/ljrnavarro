@@ -1,4 +1,34 @@
 #### Olá! Eu sou Junior Navarro 🧑🏽‍💻
+
+Especialista em Desenvolvimento de Software & Liderança de Equipes Ágeis
+Backend .NET/Full Stack | Líder Técnico | Agile Practitioner | Mentor de Squads
+
+Com mais de 20 anos de experiência, transformo desafios complexos em soluções escaláveis e lidero equipes de alta performance, alinhando tecnologia, pessoas e negócios.
+
+Como impacto seus projetos?
+
+🎯 Entregas de valor: Mais de 10 projetos concluídos apenas na última experiência, combinando .NET, arquitetura limpa e práticas ágeis.
+
+🚀 Squads autogerenciáveis: Implemento cultura de "senso de dono", formando novos líderes e elevando a maturidade técnica.
+
+🔄 Processos eficientes: Domínio em Scrum, Kanban e BPMN para alinhar requisitos do cliente com entregas ágeis.
+
+Hard Skills em Destaque
+▸ Backend: .NET (C#, .NET Core), APIs RESTful, Entity Framework, DDD, RabbitMQ
+▸ Frontend: Vue.js, React, Angular, JavaScript (ES6+)
+▸ Cloud & DevOps: Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
+▸ Banco de Dados: SQL Server, Oracle, PostgreSQL, MongoDB
+▸ Engenharia de Dados: Azure Synapse e Databricks
+▸ IA: google gemini, colab, Google IA Studio, Azure OpenAI , Engenharia de Prompts
+
+Soft Skills Diferenciadoras
+
+Liderança técnica e mentoria de desenvolvedores;
+Comunicação clara para ponte entre times técnicos e negócios;
+Facilidade em ser "ponte" entre o cliente e a equipe técnica , facilidade em negociação;
+Mindset ágil com foco em MVP e melhoria contínua;
+
+Conecte-se comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniornavarro)
 
 
